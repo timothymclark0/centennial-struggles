@@ -29,7 +29,7 @@
               "state": {
                 "file": "Is Colorado in America.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Is Colorado in America"
