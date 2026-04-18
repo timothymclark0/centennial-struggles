@@ -23,11 +23,11 @@ tags:
 Team-Member: Drew Heiderscheidt
 item-contributor: Drew Heiderscheidt
 notes:
-media: "[[CS_Item_2026-04-18.jpg]]"
+media: "[[IsColoradoInAmerica.jpg]]"
 related-sources:
   - "Haywood, W.D. 1929. Autobiography of Big Bill Haywood. New York: International Publishers."
 ---
 # Is Colorado in America? — William D. Haywood (circa 1902-1904)
 2-3 sentence description of this item and its importance/background
 
-![[CS_Item_2026-04-18.jpg]]
+![[IsColoradoInAmerica.jpg]]
