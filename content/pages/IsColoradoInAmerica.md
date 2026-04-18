@@ -29,5 +29,5 @@ related-sources:
 ---
 # Is Colorado in America? — William D. Haywood (circa 1902-1904)
 2-3 sentence description of this item and its importance/background
-![colorado america](/IsColoradoInAmerica.jpg "Colorado in America Poster)
-![[IsColoradoInAmerica.jpg]]
+
+![colorado america](/IsColoradoInAmerica.jpg "Is Colorado in America political poster")
