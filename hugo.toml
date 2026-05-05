@@ -6,3 +6,38 @@ noclasses = false
 style = "github"
 [[module.imports]]
 path = "github.com/willfaught/paige"
+
+[paige]
+
+[params.paige]
+style = """
+#paige-page-content,
+#paige-page-pages > * { margin-left: auto; margin-right: auto; max-width: 40rem; }
+#paige-page-content > img,
+#paige-page-content > .paige-shortcode-image,
+#paige-page-content > .paige-shortcode-vimeo,
+#paige-page-content > .paige-shortcode-youtube { max-width: 100%; }
+"""
+
+[params.paige.site]
+disable_breadcrumbs = true
+
+[paige.pages]
+disable_authors = true
+disable_date = true
+disable_keywords = true
+disable_next = true
+disable_prev = true
+disable_reading_time = true
+disable_series = true
+disable_toc = true
+disable_word_count = true
+
+[paige.subpages]
+disable_authors = true
+disable_date = true
+disable_keywords = true
+disable_reading_time = true
+disable_series = true
+disable_summary = true
+disable_word_count = true
