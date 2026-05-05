@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Page/About.md",
+                "file": "Web Page/Share Your Story.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About"
+              "title": "Share Your Story"
             }
           }
         ],
@@ -231,20 +231,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "ob2static-site:Current file - Static Site MD Export": false,
+      "ob2static-site:All files - Static Site MD Export": false,
+      "hugo-publish:hugo sync": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "82cb309fec6dbae9",
+  "active": "eb43d2626a5a372b",
   "lastOpenFiles": [
-    "Web Page/About.md",
-    "Web Page/Untitled.md",
+    "Web Page/Maps.md",
     "Web Page/Index.md.md",
+    "Web Page/Share Your Story.md",
+    "Web Page/Untitled.md",
+    "Web Page/Archives - Browse Collections.md",
+    "Web Page/Blog.md",
+    "Web Page/About.md",
+    "Web Page/Archives - Home Page.md",
     "pages/IsColoradoInAmerica.md",
     "Web Page",
     "Item-Template-Rough.md",

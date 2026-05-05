@@ -1,0 +1,11 @@
+> [!note] Layout Notes
+> * Similar to this page: https://www.liberatoryarchivesmemory.org/map/
+
+## Map
+SHORT DESCRIPTION OF MAP
+
+[LEAFLET MAP OR SOME OTHER INTERACTIVE MAP SHOWING ITEMS AND CLUSTERS]
+
+BROWSE MAPS BUTTON
+
+CONTRIBUTE BUTTON —> LINKS TO SHARE YOUR STORY PAGE
