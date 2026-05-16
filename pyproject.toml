@@ -1,0 +1,9 @@
+[project]
+name = "centennial-struggles"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "obsidian-to-hugo>=12023.3.21",
+]

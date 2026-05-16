@@ -246,13 +246,14 @@
   },
   "active": "eb43d2626a5a372b",
   "lastOpenFiles": [
-    "Test Note.md",
-    "Web Page/Archives - Home Page.md",
-    "Web Page/Maps.md",
-    "Web Page/Share Your Story.md",
-    "Web Page/Index.md.md",
-    "Web Page/Blog.md",
-    "Web Page/Archives - Browse Collections.md",
+
+    "Web Page/__index__.md",
+    "pages/__index__.md",
+    "items/__index__.md",
+    "__index__.md",
+    "items/new_file.md",
+    "test.md",
+
     "Web Page/About.md",
     "Web Page/Untitled.md",
     "pages/IsColoradoInAmerica.md",

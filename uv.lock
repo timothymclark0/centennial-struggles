@@ -1,0 +1,23 @@
+version = 1
+revision = 3
+requires-python = ">=3.14"
+
+[[package]]
+name = "centennial-struggles"
+version = "0.1.0"
+source = { virtual = "." }
+dependencies = [
+    { name = "obsidian-to-hugo" },
+]
+
+[package.metadata]
+requires-dist = [{ name = "obsidian-to-hugo", specifier = ">=12023.3.21" }]
+
+[[package]]
+name = "obsidian-to-hugo"
+version = "12023.3.21"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/b9/f2/9b6e3121e24097f9eb61978840288905f9f9059b87786df674baee169274/obsidian_to_hugo-12023.3.21.tar.gz", hash = "sha256:14c9ad0f60cdb40b095b047f96c89a6a936fc28a3905d6555ebf38479e813e74", size = 8480, upload-time = "2023-03-21T15:14:38.011Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/db/0a/38aeab39044544bd683e5f9d190faef25a13125c8314da7798f848f2f95f/obsidian_to_hugo-12023.3.21-py3-none-any.whl", hash = "sha256:af2fce20bdfee9234472bc250567195e928dfa549451314c89419c2ba79d7883", size = 7578, upload-time = "2023-03-21T15:14:36.298Z" },
+]
