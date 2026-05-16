@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Page/Share Your Story.md",
+                "file": "pages/IsColoradoInAmerica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Share Your Story"
+              "title": "IsColoradoInAmerica"
             }
           }
         ],
@@ -231,9 +231,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "ob2static-site:Current file - Static Site MD Export": false,
-      "ob2static-site:All files - Static Site MD Export": false,
-      "hugo-publish:hugo sync": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -241,24 +238,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "ob2static-site:Current file - Static Site MD Export": false,
+      "ob2static-site:All files - Static Site MD Export": false,
+      "hugo-publish:hugo sync": false,
       "callout-manager:Insert Callout": false
     }
   },
   "active": "eb43d2626a5a372b",
   "lastOpenFiles": [
-    "Web Page/Maps.md",
-    "Web Page/Index.md.md",
-    "Web Page/Share Your Story.md",
-    "Web Page/Untitled.md",
-    "Web Page/Archives - Browse Collections.md",
-    "Web Page/Blog.md",
-    "Web Page/About.md",
+    "Test Note.md",
     "Web Page/Archives - Home Page.md",
+    "Web Page/Maps.md",
+    "Web Page/Share Your Story.md",
+    "Web Page/Index.md.md",
+    "Web Page/Blog.md",
+    "Web Page/Archives - Browse Collections.md",
+    "Web Page/About.md",
+    "Web Page/Untitled.md",
     "pages/IsColoradoInAmerica.md",
     "Web Page",
     "Item-Template-Rough.md",
     "items/IsColoradoInAmerica.jpg",
-    "Test Note.md",
     "pages",
     "items"
   ]
