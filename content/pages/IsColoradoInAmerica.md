@@ -9,6 +9,8 @@ item-type: Poster
 shortdesc: A poster created by the Western Federation of Miners during the Colorado Labor Wars concerning agitation in Telluride, Colorado for better working conditions, wages, etc. that was violently suppressed by local state institutions, especially police.
 pull-quote: We are going to break his chains and the chains thare are binding the working class of Colorado.
 item-year: circa 1902-1904
+associated-places:
+  - "Telluride, Colorado"
 item-categories:
   - Poster
   - Archival Research
